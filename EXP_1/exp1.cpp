@@ -1,3 +1,7 @@
+#include <algorithm>
+#include<bits/stdc++.h>
+using namespace std;
+
 // ---------- Brute Force ----------
 class SolutionBrute {
 public:
